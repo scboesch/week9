@@ -1,6 +1,7 @@
 {
-  "name": "week 9",
-  "description": "Week 9 Practice",
+  "name": "Test project",
+  "version": "1.0.0",
+  "description": "Test project",
   "main": "index.html",
   "dependencies": {}
 }
